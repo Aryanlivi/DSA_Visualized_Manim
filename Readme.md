@@ -1,7 +1,7 @@
 # Data Structures and Algorithms Visualization with Manim
 
 This project demonstrates various Data Structures and Algorithms (DSA) using the Manim animation engine. It provides step-by-step visualizations of popular algorithms such as sorting, searching, and more complex data structures like trees and graphs.
-
+![QuickSort Animation](Sorting/gif/QuickSortGIF.gif)
 ## Table of Contents
 - [Introduction](#introduction)
 - [Installation](#installation)
