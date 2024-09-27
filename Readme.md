@@ -1,6 +1,8 @@
 # Data Structures and Algorithms Visualization with Manim
 
 This project demonstrates various Data Structures and Algorithms (DSA) using the Manim animation engine. It provides step-by-step visualizations of popular algorithms such as sorting, searching, and more complex data structures like trees and graphs.
+
+--------
 ![QuickSort Animation](Sorting/gif/QuickSortGIF.gif)
 ## Table of Contents
 - [Introduction](#introduction)
@@ -27,10 +29,11 @@ To run the visualizations, you'll need Python and Manim installed. Follow the st
     pip install manim
 
 ## How To Run
+    pql flag helps in rendering fast but at lower quality.
     ```bash
         manim -pql quicksort.py QuickSortManim
 
-pql flag helps in rendering fast but at lower quality.
+
 
 ## Available Visualization
 ![QuickSort Animation](Sorting/gif/QuickSortGIF.gif)
