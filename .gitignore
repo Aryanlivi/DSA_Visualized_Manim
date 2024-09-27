@@ -1,0 +1,42 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Manim media files (videos and images)
+media/
+**/media/
+
+# Cache files created by Manim
+*.log
+*.tex
+*.svg
+*.png
+*.mp4
+*.mov
+*.webm
+*.wav
+
+# Python virtual environment
+venv/
+env/
+.venv/
+ENV/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Visual Studio Code settings
+.vscode/
+.vscode/*
+
+# PyCharm settings
+.idea/
+
+# macOS system files
+.DS_Store
+
+# Backup files
+*.swp
+*.swo
+*~
