@@ -14,7 +14,7 @@ This project demonstrates various Data Structures and Algorithms (DSA) using the
 This project leverages [Manim](https://github.com/ManimCommunity/manim) to animate various Data Structures and Algorithms (DSA). The goal is to help learners understand how algorithms work by providing visual aids and intuitive step-by-step breakdowns.
 
 The algorithms currently visualized include:
-- Sorting Algorithms: QuickSort
+- Sorting Algorithms: QuickSort,SelectionSort
 
 ## Installation
 
