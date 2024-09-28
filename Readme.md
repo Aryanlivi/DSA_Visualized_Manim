@@ -29,15 +29,20 @@ To run the visualizations, you'll need Python and Manim installed. Follow the st
     pip install manim
     ```
 ## How To Run
-    pql flag helps in rendering fast but at lower quality.
     ```bash
         manim -pql quicksort.py QuickSortManim
     ```
+    pql flag helps in rendering fast but at lower quality.
 
 
 
 ## Available Visualization
--QuickSort
 ![QuickSort Animation](Sorting/gif/QuickSortGIF.gif)
--SelectionSort
+
+
+QuickSort
+
 ![SelectionSort Animation](Sorting/gif/SelectionSortGIF.gif)
+
+
+SelectionSort
